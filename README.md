@@ -1,13 +1,20 @@
 == README
+# Ruby on Rails Tutorial: sample application
+
+This is the sample application for
+the [*Ruby on Rails Tutorial*](http://railstutorial.org/)
+by [Michael Hartl](http://michaelhartl.com/).
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
 Things you may want to cover:
 
-* Ruby version
+* Ruby version 2.0.0 
 
-* System dependencies
+* Rails version 4.0.2
+
+* System dependencies 10.6 OSX
 
 * Configuration
 
