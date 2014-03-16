@@ -1,0 +1,23 @@
+#Track where was I when I leave the tut 
+#Put the last thing that I did before closing.
+
+Date : number of the subchapter ; more if exists
+
+16/03/2014 : 
+Part 1
+-full_title undefined method error
+My question: http://stackoverflow.com/questions/22431742/v-2-chapter-5-rspec-title-test-fails-with-the-variable-full-title-but-passes?noredirect=1#comment34112168_22431742
+Possible solution : bundle exec guard
+	-Problem: Não sei onde hei-de adicionar a gem 'guard' no gemfile.
+
+-Full_title fixed
+-Guard (next subpart, prob 5.4)
+
+FIXED= NEW rspec spec = 
+  Failure/Error: it { should have_title(full_title('Contact')) }
+       expected #has_title?(" Ruby on Rails Tutorial Sample App | Contact ") to return true, got false
+Procurar resposta no link em cima 
+
+Perguntar/procurar o que o static_pages_helper.rb faz
+
+____________________________________________________________
